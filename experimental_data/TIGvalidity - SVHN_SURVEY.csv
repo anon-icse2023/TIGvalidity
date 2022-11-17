@@ -1,4 +1,4 @@
-Q,ID,TOOL,Expected,Predicted,ID/OOD Soffa,Loss Soffa,Loss Stocco,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Stocco 9999
+Q,ID,TOOL,Expected,Predicted,ID/OOD DAIV,Loss DAIV,Loss Selforacle,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Selforacle 9999
 0,dj_0_e5_p2,dj,5,2,ood,1765.8677978515600,15.52844,Digit 5,Digit 5,id,1,1,yes,ood
 0,dj_1_e5_p6,dj,5,6,ood,1823.8663330078100,13.958854,Digit 6,Digit 6,id,0,0,no,ood
 45,dj_10_e5_p6,dj,5,6,ood,1847.318603515630,15.195863,Digit 6,Digit 6,id,0,0,no,ood
