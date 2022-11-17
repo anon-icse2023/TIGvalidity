@@ -1,4 +1,4 @@
-Q,ID,TOOL,Expected,Predicted,ID/OOD DAIV,Loss DAIV,Loss Selforacle,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Stocco 9999
+Q,ID,TOOL,Expected,Predicted,ID/OOD DAIV,Loss DAIV,Loss Selforacle,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Selforacle 9999
 0,dlf_0_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,51886.44921875,159.0199,Pizza,Pizza,id,1,1,yes,id
 1,dlf_1_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,82058.828125,55.812645,Pizza,Pizza,id,1,1,yes,id
 5,dlf_10_e963_p962,dlf,"pizza, pizza pie","meat loaf, meatloaf",id,50940.6328125,162.70148,Pizza,Pizza,id,1,1,yes,id
